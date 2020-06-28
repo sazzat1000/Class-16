@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+span {
+    color: #3498db;
+}
+hr {
+    border: 2px solid #eb2f06;
+}
+#result {
+    color: #474787;
+}
